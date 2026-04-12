@@ -154,6 +154,7 @@ We'll review and merge your contribution soon.
 - [LMQL](https://lmql.ai/) – Query language for large language models
 - [Phoenix](https://phoenix.arize.com/) – ML observability tool for notebooks. #opensource
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) – Neuro-symbolic framework for LLM apps. #opensource
+- [toprank](https://github.com/nowork-studio/toprank) – Open-source Claude Code plugin with 9 SEO and Google Ads skills for audits, schema markup, bid updates, and CMS publishing. #opensource
 - [Vanna.ai](https://vanna.ai/) – Open-source RAG framework for SQL. #opensource
 - [Portkey](https://portkey.ai/) – LLMOps platform for monitoring and management
 - [agenta](https://github.com/agenta-ai/agenta) – Open-source LLMOps platform. #opensource
