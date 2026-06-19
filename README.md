@@ -3381,6 +3381,7 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 263. [toprank](https://github.com/nowork-studio/toprank) 👉 Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes directly to WordPress, Strapi, Contentful, or Ghost. 107 stars.
      
+264. [NotFair](https://github.com/nowork-studio/NotFair) 👉 Open-source (MIT) Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site analysis, keyword research, meta tags, schema markup, ad audits, wasted-spend detection, and creative fatigue analysis. ~2.9k stars.
 
 ## 17. <a name='JobCareer'></a>🧑‍💼 Job & Career
 
