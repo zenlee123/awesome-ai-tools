@@ -1592,7 +1592,9 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 10. [CognitiveMill](https://cognitivemill.com/) 👉 Cognitive Mill is the first Cognitive Computing Cloud for the Media and Entertainment industry. The power of augmented intelligence to understand any video content.
 
-11. [Colossyan](https://www.colossyan.com/) 👉 AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
+11. [ImagineClip](https://imagineclip.com) 👉 AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content made from prompts, images, and effects.
+
+12. [Colossyan](https://www.colossyan.com/) 👉 AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
 
 12. [Colossyan](https://www.colossyan.com/) 👉 Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.
 
