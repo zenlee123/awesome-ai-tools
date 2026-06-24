@@ -1576,6 +1576,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 2. [AIArt](https://aiart.dev/) 👉 aiart.dev
 
+3. [ImagineClip](https://imagineclip.com) 👉 Generate avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
+
 3. [Augie](https://www.augxlabs.com/) 👉 Augie transforms words into videos. Upload text, narration, or clips, and Augie will analyze the content and create a video instantly to match your words!
 
 4. [Ava](https://www.ava.me/) 👉 Ava offers free live captions or transcriptions for videoconferencing (including Zoom and Meet) and in-person meetings. In one click, Ava accurately captions any meeting, lecture, doctor visit or important conversation using AI & professional captioners providing 24/7 communication access for Deaf & hard-of-hearing people.
