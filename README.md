@@ -2899,6 +2899,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 49. [Xembly](https://www.xembly.com/) 👉 An automated chief of staff to handle the admin tasks that slow workers down.
 
+50. [Orkas](https://orkas.ai/?source=gh_zenlee) 👉 Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 ## 14. <a name='SocialMedia'></a>📱 Social Media
 
 1. [AdCreative](https://www.adcreative.ai/) 👉 Artificial Intelligence powered ad creative and banner generator for better conversion rates.
