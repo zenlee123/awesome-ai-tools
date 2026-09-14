@@ -4016,6 +4016,8 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 15. [KeepRule](https://keeprule.com/) 👉 AI-powered investment discipline tracking with principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis and psychological tests.
 
+16. [Solgrok](https://github.com/LMajster/sgrok) 👉 Autonomous Solana creator-ops agent coin ($SGROK) — Bags: https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
+
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
 1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 AweMyFace — is a skincare app and your only guide on the way to the perfect skin.
