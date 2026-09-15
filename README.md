@@ -4020,31 +4020,33 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 1. [AweMyFace](https://apps.apple.com/app/apple-store/id1621101995) 👉 AweMyFace — is a skincare app and your only guide on the way to the perfect skin.
 
-2. [Dreamweaverai](https://www.dreamweaverai.com/generate) 👉 Build the tee of your dreams with AI
+2. [Aurcue](https://www.aurcue.com) 👉 AI personal aesthetic assistant that turns one photo into practical guidance for color analysis, outfits, hairstyles, and glasses.
 
-3. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
+3. [Dreamweaverai](https://www.dreamweaverai.com/generate) 👉 Build the tee of your dreams with AI
 
-4. [FashionAdvisorAI](https://www.fashionadvisorai.com/) 👉 FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free
+4. [Fabrie AI](https://www.fabrie.com/) 👉 AI powered design tool built on Fabrie's whiteboard. It helps industrial designer, fashion designers and interior designers to quickly generate photorealistic rendering with sketch in seconds. It is currently in beta and welcomes designers to signup and try it.
 
-5. [FashionAI](https://apps.chatbotkit.com/fashionai) 👉 Get personalized style recommendations tailored to your unique fashion preferences, all powered by the latest artificial intelligence technology.
+5. [FashionAdvisorAI](https://www.fashionadvisorai.com/) 👉 FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free
 
-6. [Free Sneaker Generator by Imajinn AI](https://imajinn.ai/sneakers) 👉 Sneakerheads rejoice! Imajinn AI is here to help you design your next pair of kicks in seconds, limited only by your imagination. Design, share, and vote on your favorite AI-generated sneakers with our amazing tool, for FREE!
+6. [FashionAI](https://apps.chatbotkit.com/fashionai) 👉 Get personalized style recommendations tailored to your unique fashion preferences, all powered by the latest artificial intelligence technology.
 
-7. [Glow AI](https://glow-ai.vercel.app/) 👉 Generate your next skincare routine in seconds.
+7. [Free Sneaker Generator by Imajinn AI](https://imajinn.ai/sneakers) 👉 Sneakerheads rejoice! Imajinn AI is here to help you design your next pair of kicks in seconds, limited only by your imagination. Design, share, and vote on your favorite AI-generated sneakers with our amazing tool, for FREE!
 
-8. [Hair by AI](https://www.hairbyai.com/) 👉 We're on a mission to empower women with hairstyle recommendations that are unique to their preferences. We want to remove the uncertainty of choosing the wrong hairstyle and give beauticians better guidance on how their clients want their hair configured.
+8. [Glow AI](https://glow-ai.vercel.app/) 👉 Generate your next skincare routine in seconds.
 
-9. [Hairgen](https://www.hairgen.ai/) 👉 Preview your FUE/FUT hair transplant using AI | hairgen.ai
+9. [Hair by AI](https://www.hairbyai.com/) 👉 We're on a mission to empower women with hairstyle recommendations that are unique to their preferences. We want to remove the uncertainty of choosing the wrong hairstyle and give beauticians better guidance on how their clients want their hair configured.
 
-10. [HairstyleAI](https://www.hairstyleai.com/) 👉 Ready for a new look? Upload you photos and let artificial intelligence technology generate new hairstyles for you. Try it out today!
+10. [Hairgen](https://www.hairgen.ai/) 👉 Preview your FUE/FUT hair transplant using AI | hairgen.ai
 
-11. [TattosAI](https://www.tattoosai.com/) 👉 If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone.
+11. [HairstyleAI](https://www.hairstyleai.com/) 👉 Ready for a new look? Upload you photos and let artificial intelligence technology generate new hairstyles for you. Try it out today!
 
-12. [Visualhound](https://visualhound.com/) 👉 Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process.
+12. [TattosAI](https://www.tattoosai.com/) 👉 If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone.
 
-13. [Wardrobe](https://wardrobe-ai.com/) 👉 Personalised fashion advice with the power of AI
+13. [Visualhound](https://visualhound.com/) 👉 Visualize your product designs before going to production. Create realistic-looking product images to feed your moodboards and boost your design process.
 
-14. [AI Creator Circle](https://aicreatorcircle.com/) 👉 A community for AI & ChatGPT creatives with 95,000+ members
+14. [Wardrobe](https://wardrobe-ai.com/) 👉 Personalised fashion advice with the power of AI
+
+15. [AI Creator Circle](https://aicreatorcircle.com/) 👉 A community for AI & ChatGPT creatives with 95,000+ members
 
 ## 30. <a name='DatingRelationships'></a>💌 Dating & Relationships
 
