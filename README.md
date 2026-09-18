@@ -1767,6 +1767,7 @@ Join 2700+ creators to reach billions of people globally
 94. [PVID](http://pvid.app/) 👉 Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits.
 
 95. [StoryIntoVideo](https://storyintovideo.com) 👉 AI-powered story-to-video platform that transforms written narratives into complete videos. Automatically generates scripts, storyboards, AI characters with visual consistency, voice narration, and subtitles. Supports multiple art styles including anime, cinematic, and illustration.
+96. [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) 👉 MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
 
 ## 6. <a name='Design'></a>🎨 Design
 
