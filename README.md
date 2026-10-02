@@ -2450,6 +2450,7 @@ Join 2700+ creators to reach billions of people globally
 
 8. [Checklist.gg](https://checklist.gg/) 👉 Create checklists using AI in seconds.
 
+94. [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) 👉 Base mainnet x402 AI research gateway — free discovery via /.well-known/x402; paid $2 USDC report + $0.001 chat for external Base USDC payers.
 9. [Compar](https://compar.ai/) 👉 AI Powered Content Analyses.
 
 10. [Consensus](https://consensus.app/) 👉 A search engine that uses AI to instantly extract, aggregate, and distill findings directly from scientific research.
