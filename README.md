@@ -3992,29 +3992,31 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 
 3. [Chaplin - ChatGPT Trading Assistant & Bot Builder](https://chaplin.app/) 👉 Take all the guess work out of your time and quickly and easily build Indicators, Back test strategies and launch sophisticated Trading Bots without writing a single line of code. Support Stocks, Forex, Crypto, Futures, Options.
 
-4. [Finalle.ai](https://finalle.ai/) 👉 Your GPT Powered Wall Street Analyst
+4. [DisconfirmAI](https://disconfirmai.com/en) 👉 Investment research platform that looks for evidence against your thesis first (reading, research, radar, frameworks).
 
-5. [FinseaAI](https://finsea.ai/) 👉 Search the Stock Market, Crypto and everything Finance powered by AI
+5. [Finalle.ai](https://finalle.ai/) 👉 Your GPT Powered Wall Street Analyst
 
-6. [Gorilla AI](https://gorillaterminal.com/ai-landing) 👉 Use bleeding-edge AI to analyze stocks
+6. [FinseaAI](https://finsea.ai/) 👉 Search the Stock Market, Crypto and everything Finance powered by AI
 
-7. [Raizer](https://raizer.app/) 👉 Fundraising platform for startup founders. With Raizer you can find perfect investors and reach them out with the power of AI.
+7. [Gorilla AI](https://gorillaterminal.com/ai-landing) 👉 Use bleeding-edge AI to analyze stocks
 
-8. [Rupt](https://apps.apple.com/us/app/rupt-stock-analysis-automated/id1583073539) 👉 Rupt is an AI that finds you better stocks. Beat the market with algorithms that do all the analysis for you.
+8. [Raizer](https://raizer.app/) 👉 Fundraising platform for startup founders. With Raizer you can find perfect investors and reach them out with the power of AI.
 
-9. [Stocknews AI](https://stocknewsai.com/) 👉 AI picked stock news
+9. [Rupt](https://apps.apple.com/us/app/rupt-stock-analysis-automated/id1583073539) 👉 Rupt is an AI that finds you better stocks. Beat the market with algorithms that do all the analysis for you.
 
-10. [Stocknews AI](https://stocknewsai.com/) 👉 Stocknews AI - AI picked stock news
+10. [Stocknews AI](https://stocknewsai.com/) 👉 AI picked stock news
 
-11. [SwaggyStocks](https://swaggystocks.com/dashboard/home/) 👉 AI-based sentiment analysis tool for stock market data. Discover social trends relating to stocks & companies.
+11. [Stocknews AI](https://stocknewsai.com/) 👉 Stocknews AI - AI picked stock news
 
-12. [Torto.ai](https://torto.ai/welcome/) 👉 torto.ai is an end-to-end solution for stock market investors, guided by an AI personal assistant that helps in the investment workflow.
+12. [SwaggyStocks](https://swaggystocks.com/dashboard/home/) 👉 AI-based sentiment analysis tool for stock market data. Discover social trends relating to stocks & companies.
 
-13. [TradeUI](https://tradeui.com/) 👉 AI Based trading signals and market sentiment
+13. [Torto.ai](https://torto.ai/welcome/) 👉 torto.ai is an end-to-end solution for stock market investors, guided by an AI personal assistant that helps in the investment workflow.
 
-14. [TradeUI](https://tradeui.com/) 👉 Options Flow and Stock Market trading tools - TradeUI
+14. [TradeUI](https://tradeui.com/) 👉 AI Based trading signals and market sentiment
 
-15. [KeepRule](https://keeprule.com/) 👉 AI-powered investment discipline tracking with principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis and psychological tests.
+15. [TradeUI](https://tradeui.com/) 👉 Options Flow and Stock Market trading tools - TradeUI
+
+16. [KeepRule](https://keeprule.com/) 👉 AI-powered investment discipline tracking with principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis and psychological tests.
 
 ## 29. <a name='FashionStyle'></a>👜 Fashion & Style
 
