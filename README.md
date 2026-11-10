@@ -1102,6 +1102,8 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 248. [Humanizer PRO](https://texthumanizer.pro) 👉 Humanizer PRO is an AI text humanizer that transforms AI-generated content into natural, human-sounding text that bypasses AI detectors. Features stealth, academic, and SEO modes. Available as web app and MCP server for ChatGPT, Claude, Cursor.
 
+249. [Prompt Generator](https://trypromptgenerator.com) 👉 Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. 10 free prompts a day without an account.
+
 ## 3. <a name='Dev'></a>💻 Dev
 
 1. [Adept](https://www.adept.ai/) 👉 ML research and product lab building general intelligence by enabling humans and computers to work together creatively.
